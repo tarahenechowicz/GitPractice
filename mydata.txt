@@ -1,2 +1,3 @@
 Author: Tara Henechowicz
 PhD Candidate in Music and Health Science
+I am interested in learning git to help keep track of my code
